@@ -1,26 +1,26 @@
 [
   {
     "id": 1,
-    "title": "Enjoy on your TV.",
-    "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+    "title": "На телевизорах.",
+    "subTitle": "Смотрите на смарт-телевизорах, PlayStation, Xbox, Chromecast, Apple TV, проигрывателях Blu-ray и других устройствах.",
     "image": "/images/misc/home-tv.jpg",
-    "alt": "Tiger King on Netflix",
+    "alt": "Король тигров на Feflix",
     "direction": "row"
   },
   {
     "id": 2,
-    "title": "Download your programmes to watch on the go.",
-    "subTitle": "Save your data and watch all your favourites offline.",
+    "title": "Используйте любые программы, чтобы смотреть на ходу.",
+    "subTitle": "Сохраняйте фильмы и смотрите в оффлайне.",
     "image": "/images/misc/home-mobile.jpg",
-    "alt": "Watch on mobile",
+    "alt": "Смотреть на мобильном устройстве",
     "direction": "row-reverse"
   },
   {
     "id": 3,
-    "title": "Watch everywhere.",
-    "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+    "title": "Смотрите везде.",
+    "subTitle": "Фильмы и телепередачи на телефоне, планшете, ноутбуке и телевизоре, без ограничений и переплат.",
     "image": "/images/misc/home-imac.jpg",
-    "alt": "Money Heist on Netflix",
+    "alt": "Casa la Papel на Feflix",
     "direction": "row"
   }
 ]
