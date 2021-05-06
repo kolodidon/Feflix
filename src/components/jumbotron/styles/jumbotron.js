@@ -10,7 +10,7 @@ export const Item = styled.div`
 export const Inner = styled.div`
   display: flex;
   align-items: center;
-  flex-direction: ${({direction}) => direction};
+  flex-direction: ${({ direction }) => direction};
   justify-content: space-between;
   max-width: 1100px;
   margin: auto;
