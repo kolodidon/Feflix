@@ -1,5 +1,5 @@
 import React from 'react'
-import { Accordion } from '../components'
+import { Accordion, OptForm } from '../components'
 import faqsData from '../fixtures/faqs.json'
 
 export function FaqsContainer() {
@@ -14,9 +14,12 @@ export function FaqsContainer() {
                     </Accordion.Item>
                 ))
             }
-            <Accordion.Item>
-
-            </Accordion.Item>
+            <OptForm>
+                <OptForm.Input placeholder="Эл. почта" />
+                <OptForm.Button>Попробовать</OptForm.Button>
+                <OptForm.Break />
+                <OptForm.Text>Готовы смотреть? Введите электронную почту для создания учётной записи!</OptForm.Text>
+            </OptForm>
         </Accordion>
     )
 }
