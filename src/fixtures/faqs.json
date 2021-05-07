@@ -1,27 +1,27 @@
 [
   {
     "id": 1,
-    "header": "What is Netflix?",
-    "body": "Netflix is a streaming service that offers a wide variety of award-winning TV programmes, films, anime, documentaries and more – on thousands of internet-connected devices.\n\nYou can watch as much as you want, whenever you want, without a single advert – all for one low monthly price. There's always something new to discover, and new TV programmes and films are added every week!"
+    "header": "Что такое Feflix?",
+    "body": "Feflix - это стриминговый сервис, который предлагает широкий выбор телепрограмм, фильмов, аниме, документальных фильмов и многого другого - на тысячах подключенных к Интернету устройств.\n\nВы можете смотреть столько, сколько хотите, когда захотите, без рекламы - и все это за небольшую ежемесячную плату. Всегда есть что открыть для себя: новые телепрограммы и фильмы добавляются каждую неделю!"
   },
   {
     "id": 2,
-    "header": "How much does Netflix cost?",
-    "body": "Watch Netflix on your smartphone, tablet, smart TV, laptop or streaming device, all for one low fixed monthly fee. Plans start from £5.99 a month. No extra costs or contracts."
+    "header": "Сколько стоит Feflix?",
+    "body": "Смотрите Feflix на смартфоне, планшете, Smart TV, ноутбуке или стриминговом устройстве за небольшую ежемесячную плату. Цены начинаются от 300 рублей в месяц. Никаких дополнительных наценок или услуг."
   },
   {
     "id": 3,
-    "header": "Where can I watch?",
-    "body": "Watch anywhere, anytime, on an unlimited number of devices. Sign in with your Netflix account to watch instantly on the web at netflix.com from your personal computer or on any internet-connected device that offers the Netflix app, including smart TVs, smartphones, tablets, streaming media players and game consoles.\n\nYou can also download your favourite programmes with the iOS, Android, or Windows 10 app. Use downloads to watch while you're on the go and without an internet connection. Take Netflix with you anywhere."
+    "header": "Где я могу смотреть Feflix?",
+    "body": "Смотрите где угодно, когда угодно и на неограниченном количестве устройств. Войдите в свою учетную запись Feflix, чтобы смотреть видео в браузере на Feflix.com со своего персонального компьютера или на любом подключенном к Интернету устройстве, которое поддерживается приложением Feflix, включая смарт-телевизоры, смартфоны, планшеты, плееры потокового мультимедиа и игровые консоли.\n\nВы также можете загрузить свои любимые фильмы с помощью приложения для iOS, Android или Windows 10. Загружайте фильмы заранее, чтобы смотреть, когда вы в пути и без подключения к Интернету. Возьмите Feflix с собой куда угодно."
   },
   {
     "id": 4,
-    "header": "How do I cancel?",
-    "body": "Netflix is flexible. There are no annoying contracts and no commitments. You can easily cancel your account online in two clicks. There are no cancellation fees – start or stop your account at any time."
+    "header": "Как мне отменить подписку?",
+    "body": "Feflix гибок. Нет никаких договоров и обязательств. Вы можете легко отменить свою учетную запись онлайн в два клика. Плата за отмену не взимается - запускайте или останавливайте свою учетную запись в любое время."
   },
   {
     "id": 5,
-    "header": "What can I watch on Netflix?",
-    "body": "Netflix has an extensive library of feature films, documentaries, TV programmes, anime, award-winning Netflix originals, and more. Watch as much as you want, any time you want."
+    "header": "Что я могу посмотреть на Feflix?",
+    "body": "Feflix имеет обширную библиотеку художественных, документальных фильмов, телепрограмм, аниме, сериалов и фильмов из Feflix Originals и многое другое. Смотрите столько, сколько хотите, в любое время."
   }
 ]
